@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 CATEGORIA: Fundamentos tradicionales PMBOK
+=======
+CATEGORIA: Metodologías Ágiles y Marco Scrum (UPNA)
+>>>>>>> 73290e6b32511288c24e48443616e9b851fe0e72
